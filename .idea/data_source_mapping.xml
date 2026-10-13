@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/backend/src/main/resources/db/migration/V1__create_users_and_roles.sql" value="608c4adb-7f73-4b05-92b8-76b9d0517d8d" />
+  </component>
+</project>
